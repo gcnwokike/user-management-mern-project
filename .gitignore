@@ -1,0 +1,10 @@
+node_modules
+client/.gitignore
+client/node_modules
+files.txt
+Outputfile.txt
+.env
+client/.env
+csvimport/node_modules
+csvimport
+csvimport/client/node_modules
